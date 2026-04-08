@@ -1,9 +1,11 @@
 name: release-please
 
 on:
-  workflow_dispatch:
-  push:
+  workflow_run:
+    workflows: ["pnpm-build"]
     branches: [main]
+    types: 
+      - completed
 
 permissions:
   contents: write
