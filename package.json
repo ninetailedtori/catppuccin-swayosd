@@ -1,0 +1,20 @@
+{
+    "name": "swaync",
+    "private": true,
+    "version": "1.0.0",
+    "description": "soothing pastel theme for swayosd",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/catppuccin/swayosd.git"
+    },
+    "scripts": {
+        "build": "sass src/:dist/ --no-source-map",
+        "build:watch": "sass --watch src/:dist/"
+    },
+    "author": "Catppuccin Org <releases@catppuccin.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "@catppuccin/palette": "^1.8.0",
+        "sass": "^1.99.0"
+    }
+}
