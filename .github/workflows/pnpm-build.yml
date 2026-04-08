@@ -1,6 +1,9 @@
-name: pnpm builder
+name: pnpm-build
+
 on:
+  workflow_dispatch:
   push:
+    branches: [main]
 
 jobs:
   build:
