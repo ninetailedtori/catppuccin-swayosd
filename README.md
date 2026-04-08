@@ -6,15 +6,15 @@
 </h3>
 
 <p align="center">
- <a href="https://github.com/catppuccin/swayosd/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/swayosd?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
- <a href="https://github.com/catppuccin/swayosd/issues"><img src="https://img.shields.io/github/issues/catppuccin/swayosd?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
- <a href="https://github.com/catppuccin/swayosd/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/swayosd?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+ <a href="https://github.com/ninetailedtori/catppuccin-swayosd/stargazers"><img src="https://img.shields.io/github/stars/ninetailedtori/catppuccin-swayosd?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+ <a href="https://github.com/ninetailedtori/catppuccin-swayosd/issues"><img src="https://img.shields.io/github/issues/ninetailedtori/catppuccin-swayosd?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+ <a href="https://github.com/ninetailedtori/catppuccin-swayosd/contributors"><img src="https://img.shields.io/github/contributors/ninetailedtori/catppuccin-swayosd?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 ## Usage
 
 1. Download your preferred flavor from the
-   [latest release](https://github.com/catppuccin/swayosd/releases/latest).
+   [latest release](https://github.com/ninetailedtori/catppuccin-swayosd/releases/latest).
 2. Put the downloaded file into `~/.config/swayosd/`.
 3. Rename the file to `style.css`.
 4. Edit `style.css` for whatever values you want!
@@ -34,5 +34,5 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+ <a href="https://github.com/ninetailedtori/catppuccin-swayosd/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
 </p>
