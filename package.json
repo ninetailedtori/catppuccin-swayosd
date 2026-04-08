@@ -8,8 +8,8 @@
         "url": "git+https://github.com/catppuccin/swayosd.git"
     },
     "scripts": {
-        "build": "sass src/:dist/ --no-source-map",
-        "build:watch": "sass --watch src/:dist/"
+        "build": "sass -I node_modules --no-charset --no-source-map src/:dist/",
+        "build:watch": "sass -I node_modules --no-charset --no-source-map --watch src/:dist/"
     },
     "author": "Catppuccin Org <releases@catppuccin.com>",
     "license": "MIT",
